@@ -3,14 +3,19 @@
   "description": "",
   "main": "js/app.js",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/tazdikershad-dsi/sampleangularproject",
   "ignore": [
     "**/.*",
     "test",
-    "tests"
+    "tests",
+    "node_modules",
+    "bower_components"
   ],
   "dependencies": {
     "angular": "^1.5.7",
     "angular-ui-router": "^0.3.1"
-  }
+  },
+  "authors": [
+    "tazdik <tazdik.ershad@dsinnovators.com>"
+  ]
 }
